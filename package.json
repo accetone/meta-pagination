@@ -1,0 +1,11 @@
+{
+  "author": "Nikita Tsyhanenko",
+  "name": "meta-pagination",
+  "description": "meta information for your pagination",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/accetone/meta-pagination"
+  },
+  "license": "MIT"
+}
